@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InterfazRes.Registro"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto, 2*, Auto">
+            <BoxView Grid.RowSpan="3">
+                <BoxView.Background>
+                    <LinearGradientBrush>
+                        <GradientStopCollection>
+                            <GradientStop Color="#dc5e10"
+                                          Offset="0" />
+                            <GradientStop Color="#eedb0c"
+                                          Offset="1" />
+                        </GradientStopCollection>
+                    </LinearGradientBrush>
+                </BoxView.Background>
+            </BoxView>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height ="Auto"/>
+                    <RowDefinition Height ="*"/>
+                    <RowDefinition Height ="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Image Grid.Row="0" Source="logo.png" WidthRequest="150" HeightRequest="150" Margin="0,50,0,30" />
+
+                <StackLayout Grid.Row="1" Padding="50,20">
+                    <Entry Text="{Binding Email}" Placeholder="Email" PlaceholderColor="White" x:Name="txtEmail"/>
+                    <Entry Text="{Binding Password}" Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True" x:Name="txtPassword"/>
+                    <Entry Text="{Binding Password}" Placeholder="Confirmar contraseña" PlaceholderColor="White" IsPassword="True" x:Name="txtPassword2"/>
+                    <Button Text="Registrarse" BackgroundColor="White" BorderRadius="20" TextColor="Black" Clicked="BotonRegistrarse"/>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="¿Ya tienes una cuenta?" HorizontalOptions="CenterAndExpand" FontSize="17" FontAttributes="Bold" Margin="0,35,0,0" BackgroundColor="Transparent" TextColor="Black"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="Inicia sesión" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" FontSize="17" BackgroundColor="Transparent" TextColor="White" Clicked="PaginaLogin"/>
+                    </StackLayout>
+                </StackLayout>
+
+            </Grid>
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

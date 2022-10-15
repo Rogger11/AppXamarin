@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="InterfazRes.Page1"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto, 2*, Auto">
+            <BoxView Grid.RowSpan="3">
+                <BoxView.Background>
+                    <LinearGradientBrush>
+                        <GradientStopCollection>
+                            <GradientStop Color="#dc5e10"
+                                          Offset="0" />
+                            <GradientStop Color="#eedb0c"
+                                          Offset="1" />
+                        </GradientStopCollection>
+                    </LinearGradientBrush>
+                </BoxView.Background>
+            </BoxView>
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height ="Auto"/>
+                    <RowDefinition Height ="*"/>
+                    <RowDefinition Height ="Auto"/>
+                </Grid.RowDefinitions>
+                <Image Grid.Row="0" Source="logo.png" WidthRequest="150" HeightRequest="150" Margin="0,50,0,30" />
+                <StackLayout Grid.Row="1" Padding="50,20">
+                    <Entry Text="{Binding Email}" Placeholder="Email" PlaceholderColor="White" x:Name="txtEmail"/>
+                    <Entry Text="{Binding Password}" Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True" x:Name="txtPassword"/>
+                    <Button Text="Iniciar Sesión" BackgroundColor="White" BorderRadius="20" TextColor="Black" Clicked="Button_Clicked"/>
+                    <StackLayout Orientation="Horizontal">
+                        <Button Text="¿No tienes una cuenta? Registrate" VerticalOptions="CenterAndExpand" FontAttributes="Bold" BackgroundColor="Transparent" TextColor="Black" Clicked="PaginaRegistro"/>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>    
+</ContentPage>
+    

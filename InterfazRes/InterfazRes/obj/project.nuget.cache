@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTHivlco/CjrSw0+VR9RY9IVVR7Hk2uv3vqZCmoz3vUXkEG01DASNoDFI5EvtiAPd6x923mrg6F1feEPutvUSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juand\\Desktop\\APP XAMARIN\\InterfazRes\\InterfazRes\\InterfazRes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\juand\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\juand\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\juand\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\juand\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

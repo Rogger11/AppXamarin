@@ -1,0 +1,86 @@
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.deps.json
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\ref\InterfazRes.dll
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.AssemblyReference.cache
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfoInputs.cache
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfo.cs
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.CoreCompileInputs.cache
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\ref\InterfazRes.dll
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\Ander\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.deps.json
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.AssemblyReference.cache
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfoInputs.cache
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfo.cs
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.CoreCompileInputs.cache
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\refint\InterfazRes.dll
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\ref\InterfazRes.dll
+C:\Users\JUAN GONZALEZ\source\repos\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.deps.json
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.AssemblyReference.cache
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfoInputs.cache
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfo.cs
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\refint\InterfazRes.dll
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\juand\Desktop\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\ref\InterfazRes.dll
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.deps.json
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.AssemblyReference.cache
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfoInputs.cache
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfo.cs
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.CoreCompileInputs.cache
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\refint\InterfazRes.dll
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\ref\InterfazRes.dll
+C:\Users\Hamilton\Desktop\InterfazRes\InterfazRes\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.deps.json
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\bin\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.AssemblyReference.cache
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfoInputs.cache
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.AssemblyInfo.cs
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.dll
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\refint\InterfazRes.dll
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\InterfazRes.pdb
+C:\Users\juand\Desktop\APP XAMARIN\InterfazRes\InterfazRes\obj\Debug\netstandard2.0\ref\InterfazRes.dll
